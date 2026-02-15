@@ -1,4 +1,4 @@
-# Platformer
+# [Basic Platformer](https://danielc87.itch.io/basic-platformer)
 
 A 2D side-scrolling platformer built in Unity. Jump through three levels, collect items, defeat enemies, and reach the flag before time runs out. Built during CMU's National High School Game Academy (NHSGA) in the summer of 2025.
 
